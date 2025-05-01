@@ -1,0 +1,9 @@
+# 忽略编译生成的文件
+pbft_simulation
+*.o
+*.exe
+
+# 其他常见需要忽略的文件
+.vscode/
+.vs/
+build/
